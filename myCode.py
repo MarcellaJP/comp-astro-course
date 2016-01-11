@@ -1,4 +1,4 @@
-import numpy as np
+import numpy
 
 def placeholder():
     pass
